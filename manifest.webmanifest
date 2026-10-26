@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Daggerheart · Encounter Builder",
+  "short_name": "Encounter Builder",
+  "description": "Prepara e gestisci i tuoi incontri di Daggerheart, anche offline.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1c254e",
+  "theme_color": "#1c254e",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
